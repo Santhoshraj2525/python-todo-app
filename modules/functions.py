@@ -1,5 +1,6 @@
 FILEPATH = "files/subfiles/todos.txt"
 
+
 def get_todos(filepath=FILEPATH):
     """ Return the list of To-dos from the todos.txt file."""
     with open(filepath, 'r') as file_local:
