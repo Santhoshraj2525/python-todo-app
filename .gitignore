@@ -1,7 +1,7 @@
 /.venv/
 .idea
-exp2.py
-exp3.py
-weather.csv
-files/experiements
-files/zips
+../pythonProject1/exp2.py
+../pythonProject1/exp3.py
+../pythonProject1/weather.csv
+../pythonProject1/experiements
+../pythonProject1/zips
