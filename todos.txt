@@ -1,3 +1,6 @@
 Sample to-do list
 Clean the bathroom
 Print the pictures
+Test the connectivityClean the laptopCreate a custom report
+Clean the mouse
+Lit the light
